@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xinchiqiu
-- 👀 I’m interested in machine learning, federated learning, on-device learning and so on.
-- 🌱 I’m currently a PhD student in University of Cambridge in the Machine Learning Systems lab under the supervision of Dr. Nic Lane.
-- 📫 How to reach me: xinchi.qiu@gmail.com
+- 👀 I’m interested in machine learning, privacy, robustness, and efficiency of decentralized/federated learning.
+- 🌱 I’m currently a PhD student at the University of Cambridge in the Machine Learning Systems lab under the supervision of Prof. Nic Lane.
+- 📫 How to reach me: xinchi.qiu@gmail.com; xq227@cam.ac.uk
 
 <!---
 xinchiqiu/xinchiqiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
